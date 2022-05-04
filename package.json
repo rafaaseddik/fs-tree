@@ -1,0 +1,23 @@
+{
+  "name": "fs-tree",
+  "version": "1.0.0",
+  "description": "A node js library to get the arborescence of a directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest tests",
+    "examplePromise":"ts-node-dev --respawn --transpile-only examples/example-promise.ts"
+  },
+  "keywords": [
+    "filesystem",
+    "ls",
+    "tree"
+  ],
+  "author": "Rafaa Seddik",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "jest": "^28.0.3",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.4"
+  }
+}
