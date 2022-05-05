@@ -1,6 +1,6 @@
 {
   "name": "fs-tree-tool",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A node js library to get the arborescence of a directory",
   "main": "dist/index.js",
   "scripts": {
